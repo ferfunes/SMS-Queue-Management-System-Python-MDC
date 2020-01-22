@@ -24,6 +24,3 @@ class example:
         self.x = param1
         
 
-bob = example("sand")
-print(bob.x)
-
