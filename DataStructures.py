@@ -19,8 +19,5 @@ class Queue:
         return len(self._queue) 
 
 
-class example:
-    def __init__(self,param1):
-        self.x = param1
-        
+
 
