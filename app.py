@@ -79,7 +79,7 @@ def start():
         elif option == 5:
             import_queue()
         elif option == 6:
-            print("Bye bye!")
+            print("Adios Amigo!")
             return None
         else:
             print("Invalid option "+str(option))
